@@ -3,8 +3,8 @@ class Prediup < Formula
 
   desc "Compatibility formula for predihermes"
   homepage "https://github.com/nativ3ai/prediup"
-  url "https://github.com/nativ3ai/prediup/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "67cb1f4408c8d2e66d889a2396dcd248a70abbc99870bfe47d11571e33502c26"
+  url "https://github.com/nativ3ai/prediup/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "b349ad77bc8b4c2bb15be369cdf8ed708778a2d76a69e3bfca405ad8dca974a2"
   license "MIT"
 
   depends_on "python@3.12"
