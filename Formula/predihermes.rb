@@ -3,8 +3,8 @@ class Predihermes < Formula
 
   desc "One-command installer for the PrediHermes local edition"
   homepage "https://github.com/nativ3ai/prediup"
-  url "https://github.com/nativ3ai/prediup/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "b349ad77bc8b4c2bb15be369cdf8ed708778a2d76a69e3bfca405ad8dca974a2"
+  url "https://github.com/nativ3ai/prediup/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "8ea9df172c47a32fc24c00dc596b10f659eaf3198e77f3d1b92b7547a9c392d5"
   license "MIT"
 
   depends_on "python@3.12"
